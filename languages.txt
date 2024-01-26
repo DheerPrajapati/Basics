@@ -1,4 +1,4 @@
-Name of partner: Max Stroh
+Name of partner: Max Stroh PID: cmstroh
 
 Q.) What is your favorite programming language? Why?
     A.) My favorite programming language is java because it was one of the first language that I leanred
