@@ -1,0 +1,14 @@
+Name of partner: Max Stroh
+
+Q.) What is your favorite programming language? Why?
+    A.) My favorite programming language is java because it was one of the first language that I leanred
+     and since I have so much experience in the language I find it 
+     very easy to manage since I know a majority of the helpful packages and methods that I can use and 
+     also I have very familiar with OOP. I also like how the syntax of java is so restrictive which makes it better for not making mistakes.
+
+
+
+Q.) Is your favorite language the one you are also most experienced with? If not, which language are you most experienced with?
+    A.) Yes my favorite language is the one that i am the most experience with.
+
+
